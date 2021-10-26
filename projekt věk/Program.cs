@@ -44,8 +44,8 @@ namespace projekt_věk
                 Console.WriteLine();
                 Console.WriteLine("Jste důchodce");
             }
-            else if (vek < 100)
-            { 
+            
+           
                     
 
         }
